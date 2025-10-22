@@ -1,0 +1,643 @@
+{
+  "start_time": "2025-10-22T13:39:12.671846",
+  "input_directory": "/home/kevin/development/knowledge-base-documents/Documents",
+  "output_base_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/",
+  "output_mode": "per_file_directory",
+  "total_files": 70,
+  "processed": 70,
+  "successful": 70,
+  "failed": 0,
+  "files": {
+    "10255842_2015_1069555_-_f32a821bf15c4c05aa2c25f8600bb5f2_-_Annas_Archive.pdf": {
+      "index": 1,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/10255842_2015_1069555_-_f32a821bf15c4c05aa2c25f8600bb5f2_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/10255842_2015_1069555_-_f32a821bf15c4c05aa2c25f8600bb5f2_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:39:24.658037",
+      "success": true,
+      "error": null,
+      "pages": 3
+    },
+    "16138171_2019_1661143_-_6ab65ec6095d41b77c69fb2002d7594b_-_Annas_Archive.pdf": {
+      "index": 2,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/16138171_2019_1661143_-_6ab65ec6095d41b77c69fb2002d7594b_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/16138171_2019_1661143_-_6ab65ec6095d41b77c69fb2002d7594b_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:39:56.172495",
+      "success": true,
+      "error": null,
+      "pages": 22
+    },
+    "2158244019861459_-_58dc566744aed72f9164243302941f76_-_Annas_Archive.pdf": {
+      "index": 3,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/2158244019861459_-_58dc566744aed72f9164243302941f76_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/2158244019861459_-_58dc566744aed72f9164243302941f76_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:40:20.448716",
+      "success": true,
+      "error": null,
+      "pages": 11
+    },
+    "23_25_pms_118k12w5_-_5ab28d98997dc3e0124fbe5ff69b3671_-_Annas_Archive.pdf": {
+      "index": 4,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/23_25_pms_118k12w5_-_5ab28d98997dc3e0124fbe5ff69b3671_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/23_25_pms_118k12w5_-_5ab28d98997dc3e0124fbe5ff69b3671_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:40:35.768845",
+      "success": true,
+      "error": null,
+      "pages": 14
+    },
+    "A._L._Sadler_-_Chinese_Martial_Code_The_Art_of_War_of_Sun_Tzu_The_Precepts_of_War_by_Sima_Rangju_Wu_Zi_on_the_Art_of_War.epub": {
+      "index": 5,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/A._L._Sadler_-_Chinese_Martial_Code_The_Art_of_War_of_Sun_Tzu_The_Precepts_of_War_by_Sima_Rangju_Wu_Zi_on_the_Art_of_War.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/A._L._Sadler_-_Chinese_Martial_Code_The_Art_of_War_of_Sun_Tzu_The_Precepts_of_War_by_Sima_Rangju_Wu_Zi_on_the_Art_of_War/",
+      "processed_at": "2025-10-22T13:43:35.197809",
+      "success": true,
+      "error": null,
+      "pages": 192
+    },
+    "Advancements_in_the_Scientific_Study_of_Combative_Sports_-_Jason_E_Warnick_W_Daniel_Martin_ProQuest_Firm_-_Sports_and_Athletics_Preparation_-_9781608767335_-_9615ad6feba0c7ad03ce43a99438a8aa.pdf": {
+      "index": 6,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Advancements_in_the_Scientific_Study_of_Combative_Sports_-_Jason_E_Warnick_W_Daniel_Martin_ProQuest_Firm_-_Sports_and_Athletics_Preparation_-_9781608767335_-_9615ad6feba0c7ad03ce43a99438a8aa.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Advancements_in_the_Scientific_Study_of_Combative_Sports_-_Jason_E_Warnick_W_Daniel_Martin_ProQuest_Firm_-_Sports_and_Athletics_Preparation_-_9781608767335_-_9615ad6feba0c7ad03ce43a99438a8aa/",
+      "processed_at": "2025-10-22T13:47:30.581646",
+      "success": true,
+      "error": null,
+      "pages": 228
+    },
+    "An_Analysis_of_the_Development_of_Wushu_-_Theeboom_M_De_Knop_P_-_International_Review_for_the_Sociology_of_Sport_3_32_-_SAGE_Publications_-_10_1177_1012690297032003004_-_cb71f7bff1021d885ce545f9aabc4b1d_-_Annas_Archive.pdf": {
+      "index": 7,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/An_Analysis_of_the_Development_of_Wushu_-_Theeboom_M_De_Knop_P_-_International_Review_for_the_Sociology_of_Sport_3_32_-_SAGE_Publications_-_10_1177_1012690297032003004_-_cb71f7bff1021d885ce545f9aabc4b1d_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/An_Analysis_of_the_Development_of_Wushu_-_Theeboom_M_De_Knop_P_-_International_Review_for_the_Sociology_of_Sport_3_32_-_SAGE_Publications_-_10_1177_1012690297032003004_-_cb71f7bff1021d885ce545f9aabc4b1d_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:47:55.388579",
+      "success": true,
+      "error": null,
+      "pages": 16
+    },
+    "Arnold_G._Nelson_Jouko_Kokkonen_Jason_M._McAlexander_-_Stretching_anatomy.pdf": {
+      "index": 8,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Arnold_G._Nelson_Jouko_Kokkonen_Jason_M._McAlexander_-_Stretching_anatomy.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Arnold_G._Nelson_Jouko_Kokkonen_Jason_M._McAlexander_-_Stretching_anatomy/",
+      "processed_at": "2025-10-22T13:53:35.255077",
+      "success": true,
+      "error": null,
+      "pages": 158
+    },
+    "Basic_and_moderate_wushu_workouts_for_healing_the_physical_-_Greenberg_Samuel_-_2023_-_887ed9e785dd7679450d016e50f6eadc_-_Annas_Archive.epub": {
+      "index": 9,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Basic_and_moderate_wushu_workouts_for_healing_the_physical_-_Greenberg_Samuel_-_2023_-_887ed9e785dd7679450d016e50f6eadc_-_Annas_Archive.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Basic_and_moderate_wushu_workouts_for_healing_the_physical_-_Greenberg_Samuel_-_2023_-_887ed9e785dd7679450d016e50f6eadc_-_Annas_Archive/",
+      "processed_at": "2025-10-22T13:54:32.575125",
+      "success": true,
+      "error": null,
+      "pages": 78
+    },
+    "Bret_Contreras_Human_Kinetics_Organization_-_Bodyweight_strength_training_anatomy.pdf": {
+      "index": 10,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Bret_Contreras_Human_Kinetics_Organization_-_Bodyweight_strength_training_anatomy.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Bret_Contreras_Human_Kinetics_Organization_-_Bodyweight_strength_training_anatomy/",
+      "processed_at": "2025-10-22T13:58:38.775981",
+      "success": true,
+      "error": null,
+      "pages": 224
+    },
+    "Bucksam_Kong_Eugene_H._Ho_-_Hung_Gar_Kung-Fu.pdf": {
+      "index": 11,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Bucksam_Kong_Eugene_H._Ho_-_Hung_Gar_Kung-Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Bucksam_Kong_Eugene_H._Ho_-_Hung_Gar_Kung-Fu/",
+      "processed_at": "2025-10-22T14:19:56.085319",
+      "success": true,
+      "error": null,
+      "pages": 219
+    },
+    "Bucksam_Kong_Gregory_Lee_-_The_Tiger_Crane_Form_of_Hung_Gar_Kung-Fu.pdf": {
+      "index": 12,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Bucksam_Kong_Gregory_Lee_-_The_Tiger_Crane_Form_of_Hung_Gar_Kung-Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Bucksam_Kong_Gregory_Lee_-_The_Tiger_Crane_Form_of_Hung_Gar_Kung-Fu/",
+      "processed_at": "2025-10-22T14:26:25.966187",
+      "success": true,
+      "error": null,
+      "pages": 159
+    },
+    "CHINESE_KUNG_FU_SERIES-_72_CONSUMMATE_ARTS_SECRETS_OF_THE_-_WU_JIAMING_-_1992_-_FUJIAN_SCIENCE_TECHNOLOGY_PUBLISHING_CO_LTD_-_f4ea6eb818828c2822346da494b8f74d_-_Anna_s_Archive.pdf": {
+      "index": 13,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/CHINESE_KUNG_FU_SERIES-_72_CONSUMMATE_ARTS_SECRETS_OF_THE_-_WU_JIAMING_-_1992_-_FUJIAN_SCIENCE_TECHNOLOGY_PUBLISHING_CO_LTD_-_f4ea6eb818828c2822346da494b8f74d_-_Anna_s_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/CHINESE_KUNG_FU_SERIES-_72_CONSUMMATE_ARTS_SECRETS_OF_THE_-_WU_JIAMING_-_1992_-_FUJIAN_SCIENCE_TECHNOLOGY_PUBLISHING_CO_LTD_-_f4ea6eb818828c2822346da494b8f74d_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T14:29:48.727085",
+      "success": true,
+      "error": null,
+      "pages": 298
+    },
+    "Chinese_Gung_Fu_the_Philosophical_Art_of_Self-Defense_-_Lee_Bruce_-_1987_2008_-_Black_Belt_Communications_Incorporated_-_9780897502511_-_ef13f35d0dd45e72fe6486ee069f1df0_-_Anna_s_Archive.epub": {
+      "index": 14,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Chinese_Gung_Fu_the_Philosophical_Art_of_Self-Defense_-_Lee_Bruce_-_1987_2008_-_Black_Belt_Communications_Incorporated_-_9780897502511_-_ef13f35d0dd45e72fe6486ee069f1df0_-_Anna_s_Archive.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Chinese_Gung_Fu_the_Philosophical_Art_of_Self-Defense_-_Lee_Bruce_-_1987_2008_-_Black_Belt_Communications_Incorporated_-_9780897502511_-_ef13f35d0dd45e72fe6486ee069f1df0_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T14:30:48.343759",
+      "success": true,
+      "error": null,
+      "pages": 106
+    },
+    "Craig_Ramsay_-_Anatomy_of_Stretching.epub": {
+      "index": 15,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Craig_Ramsay_-_Anatomy_of_Stretching.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Craig_Ramsay_-_Anatomy_of_Stretching/",
+      "processed_at": "2025-10-22T14:34:05.325004",
+      "success": true,
+      "error": null,
+      "pages": 356
+    },
+    "Dan_Jiao_Defeng_Li_Lingwei_Meng_Yuhong_Peng_-_Understanding_and_Translating_Chinese_Martial_Arts.epub": {
+      "index": 16,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Dan_Jiao_Defeng_Li_Lingwei_Meng_Yuhong_Peng_-_Understanding_and_Translating_Chinese_Martial_Arts.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Dan_Jiao_Defeng_Li_Lingwei_Meng_Yuhong_Peng_-_Understanding_and_Translating_Chinese_Martial_Arts/",
+      "processed_at": "2025-10-22T14:38:03.449315",
+      "success": true,
+      "error": null,
+      "pages": 195
+    },
+    "David_Potach_Erik_Meira_-_Sport_Injury_Prevention_Anatomy.epub": {
+      "index": 17,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/David_Potach_Erik_Meira_-_Sport_Injury_Prevention_Anatomy.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/David_Potach_Erik_Meira_-_Sport_Injury_Prevention_Anatomy/",
+      "processed_at": "2025-10-22T14:41:50.424553",
+      "success": true,
+      "error": null,
+      "pages": 288
+    },
+    "Derek_Hansen_Steve_Kennelly_-_Plyometric_anatomy.pdf": {
+      "index": 18,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Derek_Hansen_Steve_Kennelly_-_Plyometric_anatomy.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Derek_Hansen_Steve_Kennelly_-_Plyometric_anatomy/",
+      "processed_at": "2025-10-22T14:45:33.500909",
+      "success": true,
+      "error": null,
+      "pages": 266
+    },
+    "Dr._Jwing-Ming_Yang_PhD_-_Taijiquan_Theory_of_Dr._Yang_Jwing-Ming_The_Root_of_Taijiquan.epub": {
+      "index": 19,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Dr._Jwing-Ming_Yang_PhD_-_Taijiquan_Theory_of_Dr._Yang_Jwing-Ming_The_Root_of_Taijiquan.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Dr._Jwing-Ming_Yang_PhD_-_Taijiquan_Theory_of_Dr._Yang_Jwing-Ming_The_Root_of_Taijiquan/",
+      "processed_at": "2025-10-22T14:52:30.241821",
+      "success": true,
+      "error": null,
+      "pages": 346
+    },
+    "Eng_Paul_Tok_Stephanie_-_Kungfu_for_Kids.epub": {
+      "index": 20,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Eng_Paul_Tok_Stephanie_-_Kungfu_for_Kids.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Eng_Paul_Tok_Stephanie_-_Kungfu_for_Kids/",
+      "processed_at": "2025-10-22T14:53:45.219129",
+      "success": true,
+      "error": null,
+      "pages": 136
+    },
+    "English-Chinese_Chinese-English_Wushu_Glossary_-_Xie_Shoude_-..._na_1989_-_Ren_min_ti_yu_chu_ban_-_9787500903505_-_5f5e20bc1897b32c1a3d97f36740a6b4_-_Anna_s_Archive.pdf": {
+      "index": 21,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/English-Chinese_Chinese-English_Wushu_Glossary_-_Xie_Shoude_-..._na_1989_-_Ren_min_ti_yu_chu_ban_-_9787500903505_-_5f5e20bc1897b32c1a3d97f36740a6b4_-_Anna_s_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/English-Chinese_Chinese-English_Wushu_Glossary_-_Xie_Shoude_-..._na_1989_-_Ren_min_ti_yu_chu_ban_-_9787500903505_-_5f5e20bc1897b32c1a3d97f36740a6b4_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T15:03:35.117582",
+      "success": true,
+      "error": null,
+      "pages": 321
+    },
+    "Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Anna_s_Archive.pdf": {
+      "index": 22,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Anna_s_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T15:05:44.796856",
+      "success": true,
+      "error": null,
+      "pages": 177
+    },
+    "Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Annas_Archive.pdf": {
+      "index": 23,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Essentials_of_Chinese_Wushu_-_Bin_Wu_Xingdong_Li_-_Chinese_wushu_series_Beijing_repr_1995_1992_-_Foreign_Languages_Press_-_9780835128308_-_da4ffcc3e3ad7f4caed82a99826be244_-_Annas_Archive/",
+      "processed_at": "2025-10-22T15:07:54.665078",
+      "success": true,
+      "error": null,
+      "pages": 177
+    },
+    "H.L.L_Loh_auth._-_The_Body_and_Senses_in_Martial_Culture.pdf": {
+      "index": 24,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/H.L.L_Loh_auth._-_The_Body_and_Senses_in_Martial_Culture.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/H.L.L_Loh_auth._-_The_Body_and_Senses_in_Martial_Culture/",
+      "processed_at": "2025-10-22T15:10:19.017149",
+      "success": true,
+      "error": null,
+      "pages": 141
+    },
+    "Hong_Junsheng_Chen_Zhonghua_-_Chen_style_taijiquan_practical_method._Volume_one.pdf": {
+      "index": 25,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Hong_Junsheng_Chen_Zhonghua_-_Chen_style_taijiquan_practical_method._Volume_one.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Hong_Junsheng_Chen_Zhonghua_-_Chen_style_taijiquan_practical_method._Volume_one/",
+      "processed_at": "2025-10-22T15:12:41.577395",
+      "success": true,
+      "error": null,
+      "pages": 167
+    },
+    "Huang_Han_Xun_-_Luohan_Gong._Shaolin_Internal_Training_Set.pdf": {
+      "index": 26,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Huang_Han_Xun_-_Luohan_Gong._Shaolin_Internal_Training_Set.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Huang_Han_Xun_-_Luohan_Gong._Shaolin_Internal_Training_Set/",
+      "processed_at": "2025-10-22T15:13:40.689500",
+      "success": true,
+      "error": null,
+      "pages": 82
+    },
+    "Jan_Silberstorff_-_Chen_Living_Taijiquan_in_the_Classical_Style.epub": {
+      "index": 27,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Jan_Silberstorff_-_Chen_Living_Taijiquan_in_the_Classical_Style.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Jan_Silberstorff_-_Chen_Living_Taijiquan_in_the_Classical_Style/",
+      "processed_at": "2025-10-22T15:18:14.561276",
+      "success": true,
+      "error": null,
+      "pages": 267
+    },
+    "Jin_Jing_Zhong_Andrew_Timofeevich_-_Authentic_Shaolin_Heritage.pdf": {
+      "index": 28,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Jin_Jing_Zhong_Andrew_Timofeevich_-_Authentic_Shaolin_Heritage.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Jin_Jing_Zhong_Andrew_Timofeevich_-_Authentic_Shaolin_Heritage/",
+      "processed_at": "2025-10-22T15:21:27.283959",
+      "success": true,
+      "error": null,
+      "pages": 236
+    },
+    "Jingwu_the_school_that_transformed_Kung_Fu_-_Brian_L_Kennedy_and_Elizabeth_Nai-Jia_Guo_-_Berkeley_Calif_California_2010_-_Blue_Snake_Books_-_9781583942420_-_155ba1e13aab9d358014da94c169dc58.pdf": {
+      "index": 29,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Jingwu_the_school_that_transformed_Kung_Fu_-_Brian_L_Kennedy_and_Elizabeth_Nai-Jia_Guo_-_Berkeley_Calif_California_2010_-_Blue_Snake_Books_-_9781583942420_-_155ba1e13aab9d358014da94c169dc58.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Jingwu_the_school_that_transformed_Kung_Fu_-_Brian_L_Kennedy_and_Elizabeth_Nai-Jia_Guo_-_Berkeley_Calif_California_2010_-_Blue_Snake_Books_-_9781583942420_-_155ba1e13aab9d358014da94c169dc58/",
+      "processed_at": "2025-10-22T15:24:20.698061",
+      "success": true,
+      "error": null,
+      "pages": 166
+    },
+    "Koon_Hung_Lee_-_Choy_Lay_Fut_Kung_Fu.pdf": {
+      "index": 30,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Koon_Hung_Lee_-_Choy_Lay_Fut_Kung_Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Koon_Hung_Lee_-_Choy_Lay_Fut_Kung_Fu/",
+      "processed_at": "2025-10-22T15:26:42.260331",
+      "success": true,
+      "error": null,
+      "pages": 192
+    },
+    "Kung-Fu_The_Ultimate_Guide_to_Shaolin_Kung_Fu_Along_with_-_Clint_Sharp_-_2022_-_10d74e262d665cf70d1b0e2388193eec_-_Anna_s_Archive.pdf": {
+      "index": 31,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung-Fu_The_Ultimate_Guide_to_Shaolin_Kung_Fu_Along_with_-_Clint_Sharp_-_2022_-_10d74e262d665cf70d1b0e2388193eec_-_Anna_s_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung-Fu_The_Ultimate_Guide_to_Shaolin_Kung_Fu_Along_with_-_Clint_Sharp_-_2022_-_10d74e262d665cf70d1b0e2388193eec_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T15:34:58.235620",
+      "success": true,
+      "error": null,
+      "pages": 121
+    },
+    "Kung_Fu_Basics_Everything_You_Need_to_Get_Started_in_Kung_-_Paul_Eng_-_Tuttle_Martial_Arts_Basics_Illustrated_2018_-_Tuttle_Publishing_-_9780804834940_-_484254aa13e8341b8120e7eb5d829b2b_-_An.pdf": {
+      "index": 32,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_Basics_Everything_You_Need_to_Get_Started_in_Kung_-_Paul_Eng_-_Tuttle_Martial_Arts_Basics_Illustrated_2018_-_Tuttle_Publishing_-_9780804834940_-_484254aa13e8341b8120e7eb5d829b2b_-_An.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_Basics_Everything_You_Need_to_Get_Started_in_Kung_-_Paul_Eng_-_Tuttle_Martial_Arts_Basics_Illustrated_2018_-_Tuttle_Publishing_-_9780804834940_-_484254aa13e8341b8120e7eb5d829b2b_-_An/",
+      "processed_at": "2025-10-22T15:37:52.237970",
+      "success": true,
+      "error": null,
+      "pages": 192
+    },
+    "Kung_Fu_Grading_Training_-_Your_Ultimate_Summary_Guide_-_Phil_Pierce_Pierce_Phil_-_2014_-_PhilPierceBooks_-_ceec41c43994d3c2b43984f205e99737_-_Annas_Archive.pdf": {
+      "index": 33,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_Grading_Training_-_Your_Ultimate_Summary_Guide_-_Phil_Pierce_Pierce_Phil_-_2014_-_PhilPierceBooks_-_ceec41c43994d3c2b43984f205e99737_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_Grading_Training_-_Your_Ultimate_Summary_Guide_-_Phil_Pierce_Pierce_Phil_-_2014_-_PhilPierceBooks_-_ceec41c43994d3c2b43984f205e99737_-_Annas_Archive/",
+      "processed_at": "2025-10-22T15:50:00.316269",
+      "success": true,
+      "error": null,
+      "pages": 121
+    },
+    "Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541.pdf": {
+      "index": 34,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541/",
+      "processed_at": "2025-10-22T15:50:36.509219",
+      "success": true,
+      "error": null,
+      "pages": 40
+    },
+    "Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541_-_Annas_Archive.pdf": {
+      "index": 35,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_Illustrated_History_of_Martial_Arts_-_by_Kevin_K_Casey_-_Illustrated_history_of_martial_arts_Vero_Beach_FL_-_The_Rourke_Corporation_-_9780865933682_-_53111c870bfb9774140b40e01451a541_-_Annas_Archive/",
+      "processed_at": "2025-10-22T15:51:12.698791",
+      "success": true,
+      "error": null,
+      "pages": 40
+    },
+    "Kung_Fu_Training_for_Real_Violence_-_Martineau_Darin_-_2018_-_5f5c75116abf10099e6aa6f81a348f95_-_Anna_s_Archive.epub": {
+      "index": 36,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_Training_for_Real_Violence_-_Martineau_Darin_-_2018_-_5f5c75116abf10099e6aa6f81a348f95_-_Anna_s_Archive.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_Training_for_Real_Violence_-_Martineau_Darin_-_2018_-_5f5c75116abf10099e6aa6f81a348f95_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T15:54:46.083924",
+      "success": true,
+      "error": null,
+      "pages": 192
+    },
+    "Kung_Fu_and_Science_Gateway_Education_Series_-_Fen_Sun_Patrick_TK_Leung_Roy_Vellaisamy_-_Place_of_publication_not_identified_2016_-_City_-_9789629372521_-_65de643a4845a8ec73445464f3df3e0e_-_Annas_Archive.pdf": {
+      "index": 37,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_and_Science_Gateway_Education_Series_-_Fen_Sun_Patrick_TK_Leung_Roy_Vellaisamy_-_Place_of_publication_not_identified_2016_-_City_-_9789629372521_-_65de643a4845a8ec73445464f3df3e0e_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_and_Science_Gateway_Education_Series_-_Fen_Sun_Patrick_TK_Leung_Roy_Vellaisamy_-_Place_of_publication_not_identified_2016_-_City_-_9789629372521_-_65de643a4845a8ec73445464f3df3e0e_-_Annas_Archive/",
+      "processed_at": "2025-10-22T15:57:53.120391",
+      "success": true,
+      "error": null,
+      "pages": 183
+    },
+    "Kung_Fu_elements_Wushu_training_and_martial_arts_-_Liang_Shou-Yu_Wen-Ching_Wu_-_Soft_cover_ed_East_Providence_RI_2006_2001_-_The_Way_of_-_9781889659329_-_7b081dd7c3409c2c1a0e6d7f16b103dc_-_Annas_Archive.pdf": {
+      "index": 38,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Kung_Fu_elements_Wushu_training_and_martial_arts_-_Liang_Shou-Yu_Wen-Ching_Wu_-_Soft_cover_ed_East_Providence_RI_2006_2001_-_The_Way_of_-_9781889659329_-_7b081dd7c3409c2c1a0e6d7f16b103dc_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Kung_Fu_elements_Wushu_training_and_martial_arts_-_Liang_Shou-Yu_Wen-Ching_Wu_-_Soft_cover_ed_East_Providence_RI_2006_2001_-_The_Way_of_-_9781889659329_-_7b081dd7c3409c2c1a0e6d7f16b103dc_-_Annas_Archive/",
+      "processed_at": "2025-10-22T16:11:17.727349",
+      "success": true,
+      "error": null,
+      "pages": 516
+    },
+    "Lam_Sai_Wing_-_Gung_Gee_Fook_Fu_Kuen.pdf": {
+      "index": 39,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Lam_Sai_Wing_-_Gung_Gee_Fook_Fu_Kuen.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Lam_Sai_Wing_-_Gung_Gee_Fook_Fu_Kuen/",
+      "processed_at": "2025-10-22T16:13:15.373125",
+      "success": true,
+      "error": null,
+      "pages": 103
+    },
+    "Leo_Budiman_Prakarsa_Khek_Kiong_Tjoa_Donn_F._Draeger_Quintin_-_Shantung_Black_Tiger.pdf": {
+      "index": 40,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Leo_Budiman_Prakarsa_Khek_Kiong_Tjoa_Donn_F._Draeger_Quintin_-_Shantung_Black_Tiger.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Leo_Budiman_Prakarsa_Khek_Kiong_Tjoa_Donn_F._Draeger_Quintin_-_Shantung_Black_Tiger/",
+      "processed_at": "2025-10-22T16:15:55.291651",
+      "success": true,
+      "error": null,
+      "pages": 108
+    },
+    "Lingnan_Hung_Kuen_Kung_Fu_in_Cinema_and_Community_-_edited_by_Hing_Chao_Hing_Chao_-_Hong_Kong_2018_-_City_University_of_Hong_Kong_Press_-_9789629373528_-_42f24c50896ffab08d9e090f959a7e6e_-_Annas_Archive.pdf": {
+      "index": 41,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Lingnan_Hung_Kuen_Kung_Fu_in_Cinema_and_Community_-_edited_by_Hing_Chao_Hing_Chao_-_Hong_Kong_2018_-_City_University_of_Hong_Kong_Press_-_9789629373528_-_42f24c50896ffab08d9e090f959a7e6e_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Lingnan_Hung_Kuen_Kung_Fu_in_Cinema_and_Community_-_edited_by_Hing_Chao_Hing_Chao_-_Hong_Kong_2018_-_City_University_of_Hong_Kong_Press_-_9789629373528_-_42f24c50896ffab08d9e090f959a7e6e_-_Annas_Archive/",
+      "processed_at": "2025-10-22T16:20:39.244897",
+      "success": true,
+      "error": null,
+      "pages": 174
+    },
+    "Monkey_Kung_Fu_History_and_Tradition_-_Monkey_Kung_Fu_History_Tradition_-_2014_-_CreateSpace_Independent_Publishing_Platform_-_9781502982247_-_2ade582a5136ea16a26541349d8a0855_-_Annas_Archive.pdf": {
+      "index": 42,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Monkey_Kung_Fu_History_and_Tradition_-_Monkey_Kung_Fu_History_Tradition_-_2014_-_CreateSpace_Independent_Publishing_Platform_-_9781502982247_-_2ade582a5136ea16a26541349d8a0855_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Monkey_Kung_Fu_History_and_Tradition_-_Monkey_Kung_Fu_History_Tradition_-_2014_-_CreateSpace_Independent_Publishing_Platform_-_9781502982247_-_2ade582a5136ea16a26541349d8a0855_-_Annas_Archive/",
+      "processed_at": "2025-10-22T16:22:55.739378",
+      "success": true,
+      "error": null,
+      "pages": 218
+    },
+    "P_Ng_Chye_Khim_Draeger_Donn_F._-_Shaolin_Lohan_Kung-Fu_Shaolin_Lohan_Kung-Fu_-_libgen.li.epub": {
+      "index": 43,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/P_Ng_Chye_Khim_Draeger_Donn_F._-_Shaolin_Lohan_Kung-Fu_Shaolin_Lohan_Kung-Fu_-_libgen.li.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/P_Ng_Chye_Khim_Draeger_Donn_F._-_Shaolin_Lohan_Kung-Fu_Shaolin_Lohan_Kung-Fu_-_libgen.li/",
+      "processed_at": "2025-10-22T16:25:02.099460",
+      "success": true,
+      "error": null,
+      "pages": 173
+    },
+    "Paul_Bowman_editor_-_The_Martial_Arts_Studies_Reader.pdf": {
+      "index": 44,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Paul_Bowman_editor_-_The_Martial_Arts_Studies_Reader.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Paul_Bowman_editor_-_The_Martial_Arts_Studies_Reader/",
+      "processed_at": "2025-10-22T16:30:04.392777",
+      "success": true,
+      "error": null,
+      "pages": 244
+    },
+    "PraticalHungKuen_-_Horse_Stance_Manual.pdf": {
+      "index": 45,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/PraticalHungKuen_-_Horse_Stance_Manual.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/PraticalHungKuen_-_Horse_Stance_Manual/",
+      "processed_at": "2025-10-22T16:30:15.488320",
+      "success": true,
+      "error": null,
+      "pages": 9
+    },
+    "Prevention_and_Treatment_of_Sports_Injuries_and_-_Shenghai_Wu_Xin_Luo_-_Applied_Bionics_and_Biomechanics_2022_2022_-_Hindawi_Limited_-_10_1155_2022_2870385_-_1ccc423223aca0696c5a4b433c746b02.pdf": {
+      "index": 46,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Prevention_and_Treatment_of_Sports_Injuries_and_-_Shenghai_Wu_Xin_Luo_-_Applied_Bionics_and_Biomechanics_2022_2022_-_Hindawi_Limited_-_10_1155_2022_2870385_-_1ccc423223aca0696c5a4b433c746b02.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Prevention_and_Treatment_of_Sports_Injuries_and_-_Shenghai_Wu_Xin_Luo_-_Applied_Bionics_and_Biomechanics_2022_2022_-_Hindawi_Limited_-_10_1155_2022_2870385_-_1ccc423223aca0696c5a4b433c746b02/",
+      "processed_at": "2025-10-22T16:30:35.337978",
+      "success": true,
+      "error": null,
+      "pages": 10
+    },
+    "Ray_Long_-_Anatomy_for_Backbends_and_Twists.pdf": {
+      "index": 47,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Ray_Long_-_Anatomy_for_Backbends_and_Twists.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Ray_Long_-_Anatomy_for_Backbends_and_Twists/",
+      "processed_at": "2025-10-22T16:35:46.737558",
+      "success": true,
+      "error": null,
+      "pages": 217
+    },
+    "Ronald_Wheeler_-_The_Power_of_Shaolin_Kung_Fu.pdf": {
+      "index": 48,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Ronald_Wheeler_-_The_Power_of_Shaolin_Kung_Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Ronald_Wheeler_-_The_Power_of_Shaolin_Kung_Fu/",
+      "processed_at": "2025-10-22T16:37:37.229000",
+      "success": true,
+      "error": null,
+      "pages": 220
+    },
+    "Sahli_S._Baccouch_R._Borji_R._Sassi_B.H._Rebai_H._-_Postural_control_and_neuromuscular_responses_in_young_Kung-Fu_practitioners.pdf": {
+      "index": 49,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Sahli_S._Baccouch_R._Borji_R._Sassi_B.H._Rebai_H._-_Postural_control_and_neuromuscular_responses_in_young_Kung-Fu_practitioners.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Sahli_S._Baccouch_R._Borji_R._Sassi_B.H._Rebai_H._-_Postural_control_and_neuromuscular_responses_in_young_Kung-Fu_practitioners/",
+      "processed_at": "2025-10-22T16:37:59.743049",
+      "success": true,
+      "error": null,
+      "pages": 8
+    },
+    "Shaolin_Long_Fist_Kung_FuRepaired.pdf": {
+      "index": 50,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Shaolin_Long_Fist_Kung_FuRepaired.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Shaolin_Long_Fist_Kung_FuRepaired/",
+      "processed_at": "2025-10-22T16:43:50.363269",
+      "success": true,
+      "error": null,
+      "pages": 252
+    },
+    "Shkar_Sharif_-_Understanding_Kung_Fu_Demystifying_Traditional_Concepts.epub": {
+      "index": 51,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Shkar_Sharif_-_Understanding_Kung_Fu_Demystifying_Traditional_Concepts.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Shkar_Sharif_-_Understanding_Kung_Fu_Demystifying_Traditional_Concepts/",
+      "processed_at": "2025-10-22T16:44:57.302569",
+      "success": true,
+      "error": null,
+      "pages": 102
+    },
+    "Shou-Yu_Liang_Dr._Yang_Jwing-Ming_Wu_Wen-Ching_-_Baguazhang_-_Theory_and_Applications.epub": {
+      "index": 52,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Shou-Yu_Liang_Dr._Yang_Jwing-Ming_Wu_Wen-Ching_-_Baguazhang_-_Theory_and_Applications.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Shou-Yu_Liang_Dr._Yang_Jwing-Ming_Wu_Wen-Ching_-_Baguazhang_-_Theory_and_Applications/",
+      "processed_at": "2025-10-22T16:59:54.618677",
+      "success": true,
+      "error": null,
+      "pages": 1506
+    },
+    "Shum_Leung_-_The_Secrets_of_Eagle_Claw_Kung_Fu.epub": {
+      "index": 53,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Shum_Leung_-_The_Secrets_of_Eagle_Claw_Kung_Fu.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Shum_Leung_-_The_Secrets_of_Eagle_Claw_Kung_Fu/",
+      "processed_at": "2025-10-22T17:03:38.513077",
+      "success": true,
+      "error": null,
+      "pages": 336
+    },
+    "Southwick_Ronald_A_-_Essential_Chinese_Characters_for_the_Martial_Artist.pdf": {
+      "index": 54,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Southwick_Ronald_A_-_Essential_Chinese_Characters_for_the_Martial_Artist.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Southwick_Ronald_A_-_Essential_Chinese_Characters_for_the_Martial_Artist/",
+      "processed_at": "2025-10-22T17:03:50.605869",
+      "success": true,
+      "error": null,
+      "pages": 13
+    },
+    "Sports_Medical_Image_Modeling_of_Injury_Prevention_in_Wushu_-_Yuanyuan_Feng_-_Scanning_2022_2022_-_10_1155_2022_5201952_-_e17e52f439bed78efa91966f39bf2508.pdf": {
+      "index": 55,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Sports_Medical_Image_Modeling_of_Injury_Prevention_in_Wushu_-_Yuanyuan_Feng_-_Scanning_2022_2022_-_10_1155_2022_5201952_-_e17e52f439bed78efa91966f39bf2508.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Sports_Medical_Image_Modeling_of_Injury_Prevention_in_Wushu_-_Yuanyuan_Feng_-_Scanning_2022_2022_-_10_1155_2022_5201952_-_e17e52f439bed78efa91966f39bf2508/",
+      "processed_at": "2025-10-22T17:04:08.392335",
+      "success": true,
+      "error": null,
+      "pages": 7
+    },
+    "The_Complete_Guide_to_Northern_Praying_Mantis_Kung_Fu_-_Stuart_Alve_Olson_-_Paperback_2010_-_Blue_Snake_Books_Distributed_by_North_Atlantic_-_9781583942406_-_c7003fb6698e535b9c298b1d26d361e0_-_Annas_Archive.pdf": {
+      "index": 56,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/The_Complete_Guide_to_Northern_Praying_Mantis_Kung_Fu_-_Stuart_Alve_Olson_-_Paperback_2010_-_Blue_Snake_Books_Distributed_by_North_Atlantic_-_9781583942406_-_c7003fb6698e535b9c298b1d26d361e0_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/The_Complete_Guide_to_Northern_Praying_Mantis_Kung_Fu_-_Stuart_Alve_Olson_-_Paperback_2010_-_Blue_Snake_Books_Distributed_by_North_Atlantic_-_9781583942406_-_c7003fb6698e535b9c298b1d26d361e0_-_Annas_Archive/",
+      "processed_at": "2025-10-22T17:06:51.702367",
+      "success": true,
+      "error": null,
+      "pages": 139
+    },
+    "The_Kung_Fu_Handbook_Martial_Arts_-_Peter_G_Warr_-_Martial_arts_Rosen_Publishing_Group_North_American_ed_-_New_York_Rosen_Pub_Group_-_9781404213920_-_8ef737263350a127a9611d2af39ce8e4_-_Anna.pdf": {
+      "index": 57,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/The_Kung_Fu_Handbook_Martial_Arts_-_Peter_G_Warr_-_Martial_arts_Rosen_Publishing_Group_North_American_ed_-_New_York_Rosen_Pub_Group_-_9781404213920_-_8ef737263350a127a9611d2af39ce8e4_-_Anna.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/The_Kung_Fu_Handbook_Martial_Arts_-_Peter_G_Warr_-_Martial_arts_Rosen_Publishing_Group_North_American_ed_-_New_York_Rosen_Pub_Group_-_9781404213920_-_8ef737263350a127a9611d2af39ce8e4_-_Anna/",
+      "processed_at": "2025-10-22T17:10:53.791739",
+      "success": true,
+      "error": null,
+      "pages": 264
+    },
+    "Tsang_Tracey_Wai_Man_Kohn_Michael_Chow_Chin_Moi_Singh_Mar_-_Health_benefits_of_Kung_Fu.pdf": {
+      "index": 58,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Tsang_Tracey_Wai_Man_Kohn_Michael_Chow_Chin_Moi_Singh_Mar_-_Health_benefits_of_Kung_Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Tsang_Tracey_Wai_Man_Kohn_Michael_Chow_Chin_Moi_Singh_Mar_-_Health_benefits_of_Kung_Fu/",
+      "processed_at": "2025-10-22T17:12:41.183496",
+      "success": true,
+      "error": null,
+      "pages": 20
+    },
+    "Vincent_Lyn_Alfredo_Tucci_Micheal_Simses_-_Kung_Fu_in_the_Real_World.epub": {
+      "index": 59,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Vincent_Lyn_Alfredo_Tucci_Micheal_Simses_-_Kung_Fu_in_the_Real_World.epub",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Vincent_Lyn_Alfredo_Tucci_Micheal_Simses_-_Kung_Fu_in_the_Real_World/",
+      "processed_at": "2025-10-22T17:16:04.382037",
+      "success": true,
+      "error": null,
+      "pages": 244
+    },
+    "Wong_Kiew_Kit_-_The_Art_of_Shaolin_Kung_Fu.pdf": {
+      "index": 60,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Wong_Kiew_Kit_-_The_Art_of_Shaolin_Kung_Fu.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Wong_Kiew_Kit_-_The_Art_of_Shaolin_Kung_Fu/",
+      "processed_at": "2025-10-22T17:20:00.333172",
+      "success": true,
+      "error": null,
+      "pages": 236
+    },
+    "Yang_Chengfu_-_Methods_of_applying_taiji_boxing.pdf": {
+      "index": 61,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Yang_Chengfu_-_Methods_of_applying_taiji_boxing.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Yang_Chengfu_-_Methods_of_applying_taiji_boxing/",
+      "processed_at": "2025-10-22T17:24:04.625252",
+      "success": true,
+      "error": null,
+      "pages": 193
+    },
+    "Yang_Jwing-Ming_-_Analysis_of_Shaolin_Chin_Na_-_Instructors_Manual_for_All_Martial_Styles.pdf": {
+      "index": 62,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Yang_Jwing-Ming_-_Analysis_of_Shaolin_Chin_Na_-_Instructors_Manual_for_All_Martial_Styles.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Yang_Jwing-Ming_-_Analysis_of_Shaolin_Chin_Na_-_Instructors_Manual_for_All_Martial_Styles/",
+      "processed_at": "2025-10-22T17:38:08.485722",
+      "success": true,
+      "error": null,
+      "pages": 384
+    },
+    "Yang_Jwing-Ming_-_Comprehensive_Applications_of_Shaolin_Chin_Na.pdf": {
+      "index": 63,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Yang_Jwing-Ming_-_Comprehensive_Applications_of_Shaolin_Chin_Na.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Yang_Jwing-Ming_-_Comprehensive_Applications_of_Shaolin_Chin_Na/",
+      "processed_at": "2025-10-22T17:44:57.379666",
+      "success": true,
+      "error": null,
+      "pages": 359
+    },
+    "Yang_Jwing-Ming_Liang_Shou-Yu_-_Xingyiquan_Theory_Applications_Fighting_Tactics_and_Spirit.pdf": {
+      "index": 64,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Yang_Jwing-Ming_Liang_Shou-Yu_-_Xingyiquan_Theory_Applications_Fighting_Tactics_and_Spirit.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Yang_Jwing-Ming_Liang_Shou-Yu_-_Xingyiquan_Theory_Applications_Fighting_Tactics_and_Spirit/",
+      "processed_at": "2025-10-22T17:54:23.934050",
+      "success": true,
+      "error": null,
+      "pages": 284
+    },
+    "Zhongxian_Wu_-_Vital_Breath_of_the_Dao_Chinese_Shamanic_Tiger_Qigong_Martial_Arts_Self_Defense.pdf": {
+      "index": 65,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/Zhongxian_Wu_-_Vital_Breath_of_the_Dao_Chinese_Shamanic_Tiger_Qigong_Martial_Arts_Self_Defense.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/Zhongxian_Wu_-_Vital_Breath_of_the_Dao_Chinese_Shamanic_Tiger_Qigong_Martial_Arts_Self_Defense/",
+      "processed_at": "2025-10-22T17:58:47.421730",
+      "success": true,
+      "error": null,
+      "pages": 248
+    },
+    "by_Xi_Yun-dai_Li_Gao-zhong_Xi_Yun-tai_Li_-_1982_1982_-_-_9789622380028_-_8900891e85ea7a8873c350b5163efa8e_-_Anna_s_Archive.pdf": {
+      "index": 66,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/by_Xi_Yun-dai_Li_Gao-zhong_Xi_Yun-tai_Li_-_1982_1982_-_-_9789622380028_-_8900891e85ea7a8873c350b5163efa8e_-_Anna_s_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/by_Xi_Yun-dai_Li_Gao-zhong_Xi_Yun-tai_Li_-_1982_1982_-_-_9789622380028_-_8900891e85ea7a8873c350b5163efa8e_-_Anna_s_Archive/",
+      "processed_at": "2025-10-22T18:00:27.561133",
+      "success": true,
+      "error": null,
+      "pages": 146
+    },
+    "hung-ga-kyun-five-animals-ng-ying-kyun.pdf": {
+      "index": 67,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/hung-ga-kyun-five-animals-ng-ying-kyun.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/hung-ga-kyun-five-animals-ng-ying-kyun/",
+      "processed_at": "2025-10-22T18:01:05.778773",
+      "success": true,
+      "error": null,
+      "pages": 16
+    },
+    "jpem_2009_22_7_595_-_f804d75e32c26c7e0c6d446a4ed3efe6_-_Annas_Archive.pdf": {
+      "index": 68,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/jpem_2009_22_7_595_-_f804d75e32c26c7e0c6d446a4ed3efe6_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/jpem_2009_22_7_595_-_f804d75e32c26c7e0c6d446a4ed3efe6_-_Annas_Archive/",
+      "processed_at": "2025-10-22T18:02:31.734914",
+      "success": true,
+      "error": null,
+      "pages": 14
+    },
+    "pms_109_1_295-303_-_8ab9fcbb540ee8244dbcb47fcafea3f6_-_Annas_Archive.pdf": {
+      "index": 69,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/pms_109_1_295-303_-_8ab9fcbb540ee8244dbcb47fcafea3f6_-_Annas_Archive.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/pms_109_1_295-303_-_8ab9fcbb540ee8244dbcb47fcafea3f6_-_Annas_Archive/",
+      "processed_at": "2025-10-22T18:02:44.577005",
+      "success": true,
+      "error": null,
+      "pages": 9
+    },
+    "viktor-nordgren-gung-ji-fuk-fu-kyun-ebook.pdf": {
+      "index": 70,
+      "input_path": "/home/kevin/development/knowledge-base-documents/Documents/viktor-nordgren-gung-ji-fuk-fu-kyun-ebook.pdf",
+      "output_directory": "/home/kevin/development/DeepSeek-OCR/DeepSeek-OCR-master/DeepSeek-OCR-vllm/output/viktor-nordgren-gung-ji-fuk-fu-kyun-ebook/",
+      "processed_at": "2025-10-22T18:05:35.104616",
+      "success": true,
+      "error": null,
+      "pages": 121
+    }
+  },
+  "end_time": "2025-10-22T18:05:35.105784"
+}

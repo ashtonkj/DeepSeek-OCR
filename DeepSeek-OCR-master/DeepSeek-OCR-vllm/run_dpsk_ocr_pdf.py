@@ -10,11 +10,16 @@ from concurrent.futures import ThreadPoolExecutor
 
 if torch.version.cuda == '11.8':
     os.environ["TRITON_PTXAS_PATH"] = "/usr/local/cuda-11.8/bin/ptxas"
-os.environ['VLLM_USE_V1'] = '0'
+os.environ['VLLM_USE_V1'] = '1'
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
+os.environ['VLLM_ALLOW_INSECURE_SERIALIZATION'] = '1'
 
 
-from config import MODEL_PATH, INPUT_PATH, OUTPUT_PATH, PROMPT, SKIP_REPEAT, MAX_CONCURRENCY, NUM_WORKERS, CROP_MODE
+from config import MODEL_PATH, INPUT_PATH as CONFIG_INPUT_PATH, OUTPUT_PATH as CONFIG_OUTPUT_PATH, PROMPT, SKIP_REPEAT, MAX_CONCURRENCY, NUM_WORKERS, CROP_MODE
+
+# Override INPUT_PATH and OUTPUT_PATH with environment variables if set, otherwise use values from config
+INPUT_PATH = os.getenv('INPUT_PATH', CONFIG_INPUT_PATH)
+OUTPUT_PATH = os.getenv('OUTPUT_PATH', CONFIG_OUTPUT_PATH)
 
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
@@ -276,9 +281,12 @@ if __name__ == "__main__":
     os.makedirs(output_path, exist_ok=True)
 
 
-    mmd_det_path = output_path + '/' + INPUT_PATH.split('/')[-1].replace('.pdf', '_det.mmd')
-    mmd_path = output_path + '/' + INPUT_PATH.split('/')[-1].replace('pdf', 'mmd')
-    pdf_out_path = output_path + '/' + INPUT_PATH.split('/')[-1].replace('.pdf', '_layouts.pdf')
+    base_filename = os.path.basename(INPUT_PATH)
+    filename_without_ext = os.path.splitext(base_filename)[0]
+
+    mmd_det_path = os.path.join(output_path, filename_without_ext + '_det.mmd')
+    mmd_path = os.path.join(output_path, filename_without_ext + '.mmd')
+    pdf_out_path = os.path.join(output_path, filename_without_ext + '_layouts.pdf')
     contents_det = ''
     contents = ''
     draw_images = []
@@ -319,6 +327,8 @@ if __name__ == "__main__":
 
         jdx += 1
 
+    if os.path.isdir(mmd_det_path):
+        raise IsADirectoryError(f"Error: Cannot write to '{mmd_det_path}'. A directory with this name already exists. Please remove it or choose a different output name.")
     with open(mmd_det_path, 'w', encoding='utf-8') as afile:
         afile.write(contents_det)
 

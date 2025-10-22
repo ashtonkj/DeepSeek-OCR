@@ -11,7 +11,7 @@ from einops import rearrange, repeat
 from transformers import BatchFeature
 
 from vllm.config import VllmConfig
-from vllm.model_executor import SamplingMetadata
+from vllm.v1.sample.metadata import SamplingMetadata
 from vllm.model_executor.layers.quantization import QuantizationConfig
 from vllm.model_executor.model_loader.utils import set_default_torch_dtype
 from vllm.multimodal import MULTIMODAL_REGISTRY
@@ -156,6 +156,7 @@ class DeepseekOCRMultiModalProcessor(
         prompt: str,
         mm_data: Mapping[str, object],
         mm_kwargs: Mapping[str, object],
+        **kwargs
     ) -> BatchFeature:
         
         
@@ -233,6 +234,9 @@ class DeepseekOCRMultiModalProcessor(
         prompt: Union[str, list[int]],
         mm_data_items: MultiModalDataItems,
         hf_processor_mm_kwargs: Mapping[str, object],
+        tokenization_kwargs: Optional[Mapping[str, object]] = None,
+        mm_uuids: Optional[object] = None,
+        **kwargs
     ) -> tuple[list[int], MultiModalKwargs, bool]:
         # The processor logic is different for len(images) <= 2 vs > 2
         # Since the processing cache assumes that the processor output is
@@ -251,6 +255,9 @@ class DeepseekOCRMultiModalProcessor(
             prompt=prompt,
             mm_data_items=mm_data_items,
             hf_processor_mm_kwargs=hf_processor_mm_kwargs,
+            tokenization_kwargs=tokenization_kwargs,
+            mm_uuids=mm_uuids,
+            **kwargs
         )
 
 
@@ -555,10 +562,13 @@ class DeepseekOCRForCausalLM(nn.Module, SupportsMultiModal, SupportsPP):
     def compute_logits(
         self,
         hidden_states: torch.Tensor,
-        sampling_metadata: SamplingMetadata,
+        sampling_metadata: Optional[SamplingMetadata] = None,
     ) -> Optional[torch.Tensor]:
-        return self.language_model.compute_logits(hidden_states,
-                                                  sampling_metadata)
+        if sampling_metadata is not None:
+            return self.language_model.compute_logits(hidden_states,
+                                                      sampling_metadata)
+        else:
+            return self.language_model.compute_logits(hidden_states)
 
 
     def load_weights(self, weights: Iterable[Tuple[str, torch.Tensor]]) -> Set[str]:

@@ -19,7 +19,11 @@ import numpy as np
 from tqdm import tqdm
 from process.ngram_norepeat import NoRepeatNGramLogitsProcessor
 from process.image_process import DeepseekOCRProcessor
-from config import MODEL_PATH, INPUT_PATH, OUTPUT_PATH, PROMPT, CROP_MODE
+from config import MODEL_PATH, INPUT_PATH as CONFIG_INPUT_PATH, OUTPUT_PATH as CONFIG_OUTPUT_PATH, PROMPT, CROP_MODE
+
+# Override INPUT_PATH and OUTPUT_PATH with environment variables if set, otherwise use values from config
+INPUT_PATH = os.getenv('INPUT_PATH', CONFIG_INPUT_PATH)
+OUTPUT_PATH = os.getenv('OUTPUT_PATH', CONFIG_OUTPUT_PATH)
 
 
 
